@@ -1,4 +1,0 @@
-## site.pp ##
-
-include nodes/*
-
